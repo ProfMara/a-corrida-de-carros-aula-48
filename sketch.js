@@ -31,7 +31,6 @@ function preload() {
   //carregando a imagem de coração...
   lifeImg = loadImage("life.png");
   //carregando a imagem da explosão..
-  blastImg = loadImage("blast.png");
   
 
 }
